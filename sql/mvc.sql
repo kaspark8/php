@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 05, 2018 at 09:30 PM
+-- Generation Time: May 05, 2018 at 10:26 PM
 -- Server version: 10.1.25-MariaDB
 -- PHP Version: 7.1.7
 
@@ -93,9 +93,9 @@ INSERT INTO `users` (`user_id`, `user_name`, `user_email`, `user_pass`, `user_ty
 (2, 'kaspar', 'email@email.ee', '123', 1, 1525536752),
 (3, 'juhan', 'smuul@teele.ee', 'Smuyul', 2, 1525542031),
 (5, 'test', 'test', 'test', 3, 1525547957),
-(6, 'admin', 'admin', 'admin', 1, 1525548489),
+(6, 'admin', 'admin', 'admin', 3, 1525548489),
 (7, 'product', 'product', 'product', 1, 1525548496),
-(8, 'pages', 'pages', 'pages', 1, 1525548503);
+(8, 'pages', 'pages', 'pages', 2, 1525548503);
 
 --
 -- Indexes for dumped tables
